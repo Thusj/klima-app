@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/klima-app/static/css/main.34de6062.chunk.css",
+    "main.js": "/klima-app/static/js/main.152fedd8.chunk.js",
+    "main.js.map": "/klima-app/static/js/main.152fedd8.chunk.js.map",
+    "runtime-main.js": "/klima-app/static/js/runtime-main.06f01dd5.js",
+    "runtime-main.js.map": "/klima-app/static/js/runtime-main.06f01dd5.js.map",
+    "static/js/2.309e40c8.chunk.js": "/klima-app/static/js/2.309e40c8.chunk.js",
+    "static/js/2.309e40c8.chunk.js.map": "/klima-app/static/js/2.309e40c8.chunk.js.map",
+    "index.html": "/klima-app/index.html",
+    "precache-manifest.b4038d095a00aed738414dfb151e2e2f.js": "/klima-app/precache-manifest.b4038d095a00aed738414dfb151e2e2f.js",
+    "service-worker.js": "/klima-app/service-worker.js",
+    "static/css/main.34de6062.chunk.css.map": "/klima-app/static/css/main.34de6062.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06f01dd5.js",
+    "static/js/2.309e40c8.chunk.js",
+    "static/css/main.34de6062.chunk.css",
+    "static/js/main.152fedd8.chunk.js"
+  ]
+}
