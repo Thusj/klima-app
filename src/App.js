@@ -2,7 +2,7 @@ import React from 'react';
 import Titles from './components/Titles';
 import Form from './components/Form';
 import Weather from './components/Weather';
-import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
+import { Layout, Header, Navigation, Drawer } from 'react-mdl';
 
 /*import { tsUndefinedKeyword } from '@babel/types';*/
 
@@ -48,25 +48,18 @@ class App extends React.Component {
       <div>
         <div className="demo-big-content">
     <Layout>
-        <Header title="Title" scroll>
+        <Header title="React Klima API handler" scroll>
             <Navigation>
-                <a href="#">Link</a>
-                <a href="#">Link</a>
-                <a href="#">Link</a>
-                <a href="#">Link</a>
+                <a href="#">Contact</a>
+                <a href="#">Github</a>
             </Navigation>
         </Header>
         <Drawer title="Title">
             <Navigation>
-                <a href="#">Link</a>
-                <a href="#">Link</a>
-                <a href="#">Link</a>
-                <a href="#">Link</a>
+                <a href="#">Contact</a>
+                <a href="#">Github</a>
             </Navigation>
         </Drawer>
-        <Content>
-            <div className="page-content" />
-        </Content>
     </Layout>
 </div>
         <div className="wrapper">
