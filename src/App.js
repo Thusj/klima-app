@@ -48,16 +48,16 @@ class App extends React.Component {
       <div>
         <div className="demo-big-content">
     <Layout>
-        <Header title="React Klima API handler" scroll>
+        <Header className="header-color"title="React Klima API handler" scroll>
             <Navigation>
-                <a href="#">Contact</a>
-                <a href="#">Github</a>
+                <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">Contact</a>
+                <a href="https://github.com/Thusj?tab=repositories">Github</a>
             </Navigation>
         </Header>
         <Drawer title="Title">
             <Navigation>
-                <a href="#">Contact</a>
-                <a href="#">Github</a>
+                <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">Contact</a>
+                <a href="https://github.com/Thusj?tab=repositories">Github</a>
             </Navigation>
         </Drawer>
     </Layout>
