@@ -36,10 +36,11 @@ background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+
   background: url("img/lynbilde2.jpg");
   background-size: cover;
   display: flex;
+  padding-bottom: 300px;
   align-items: center;
   justify-content: center;
   text-align: center;
-  color: rgb(238, 231, 231);
+  color: rgb(255, 255, 255);
 }
 
 .title-container__title {
@@ -58,7 +59,7 @@ background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+
 }
 
 .form-container {
-  background-color: #a09579;
+  background-color: #c1d2d8;
   height: 90vh;
   padding-top: 100px;
   padding-left: 50px;

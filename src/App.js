@@ -54,7 +54,7 @@ class App extends React.Component {
                 <a href="https://github.com/Thusj?tab=repositories">Github</a>
             </Navigation>
         </Header>
-        <Drawer title="Title">
+        <Drawer title="Klima">
             <Navigation>
                 <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">Contact</a>
                 <a href="https://github.com/Thusj?tab=repositories">Github</a>
@@ -66,10 +66,10 @@ class App extends React.Component {
           <div className="main">
             <div className="container">
               <div className="row">
-                <div className="col-xs-5 title-container">
+                <div className="col-xs-7 title-container">
                   <Titles />
                 </div>
-                <div className="col-xs-7 form-container">                
+                <div className="col-xs-4 form-container">                
                   <Form getWeather={this.getWeather} />
                   <Weather 
                     temperature={this.state.temperature} 
