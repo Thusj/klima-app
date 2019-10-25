@@ -37,7 +37,7 @@ class App extends React.Component {
         country: undefined,
         humidity: undefined,
         description: undefined,
-        error: "Fill out the form"
+        error: "Fyll ut feltene :)"
       });
     }
  }
