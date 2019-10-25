@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/klima-app/static/css/main.595bb14b.chunk.css",
+    "main.css": "/klima-app/static/css/main.c930e3e4.chunk.css",
     "main.js": "/klima-app/static/js/main.53d49816.chunk.js",
     "main.js.map": "/klima-app/static/js/main.53d49816.chunk.js.map",
     "runtime-main.js": "/klima-app/static/js/runtime-main.06f01dd5.js",
@@ -9,10 +9,10 @@
     "static/js/2.4593b230.chunk.js": "/klima-app/static/js/2.4593b230.chunk.js",
     "static/js/2.4593b230.chunk.js.map": "/klima-app/static/js/2.4593b230.chunk.js.map",
     "index.html": "/klima-app/index.html",
-    "precache-manifest.c61dac6a4f5833d95581482e717c8b74.js": "/klima-app/precache-manifest.c61dac6a4f5833d95581482e717c8b74.js",
+    "precache-manifest.6d4a3c844b19b0026960f34307b7c826.js": "/klima-app/precache-manifest.6d4a3c844b19b0026960f34307b7c826.js",
     "service-worker.js": "/klima-app/service-worker.js",
     "static/css/2.b7f1cb4f.chunk.css.map": "/klima-app/static/css/2.b7f1cb4f.chunk.css.map",
-    "static/css/main.595bb14b.chunk.css.map": "/klima-app/static/css/main.595bb14b.chunk.css.map",
+    "static/css/main.c930e3e4.chunk.css.map": "/klima-app/static/css/main.c930e3e4.chunk.css.map",
     "static/media/bootstrap.min.css": "/klima-app/static/media/glyphicons-halflings-regular.fa277232.woff",
     "static/media/App.css": "/klima-app/static/media/lynbilde2.485a4520.jpg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.06f01dd5.js",
     "static/css/2.b7f1cb4f.chunk.css",
     "static/js/2.4593b230.chunk.js",
-    "static/css/main.595bb14b.chunk.css",
+    "static/css/main.c930e3e4.chunk.css",
     "static/js/main.53d49816.chunk.js"
   ]
 }
