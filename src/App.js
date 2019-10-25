@@ -2,10 +2,10 @@ import React from 'react';
 import Titles from './components/Titles';
 import Form from './components/Form';
 import Weather from './components/Weather';
-import { Layout, Header, Navigation, Drawer } from 'react-mdl';
+import { Layout, Header, Navigation, Drawer, Footer, FooterSection, FooterDropDownSection, FooterLinkList } from 'react-mdl';
 
-/*import { tsUndefinedKeyword } from '@babel/types';*/
-
+/*import { tsUndefinedKeyword } from '@babel/types';
+https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${API_KEY}&units=metric */
 const API_KEY = "c4284a294c0c58b3dcc66882ce5da683"
 
 class App extends React.Component {
@@ -21,7 +21,7 @@ class App extends React.Component {
     e.preventDefault();
     const city = e.target.elements.city.value;
     const country = e.target.elements.country.value;
-    const api_call = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city},${country}&appid=${API_KEY}&units=metric`);
+    const api_call = await fetch(`api.openweathermap.org/data/2.5/forecast/daily?q=${city},${country}&appid=${API_KEY}&units=metric`);
     const data = await api_call.json();
     if (city && country) {
       this.setState({
@@ -61,7 +61,8 @@ class App extends React.Component {
             </Navigation>
         </Drawer>
     </Layout>
-</div>
+    
+      </div>
         <div className="wrapper">
           <div className="main">
             <div className="container">
@@ -84,8 +85,15 @@ class App extends React.Component {
             </div>
           </div>
         </div>
+        <Footer size="mini">
+          <FooterSection type="left" logo="Just a react test">
+              <FooterLinkList>
+                <h7>dont know what to put here :)</h7>
+                <h8>Just testing footer</h8>
+              </FooterLinkList>
+            </FooterSection>
+          </Footer>
       </div>
-      
     );
   }
 };

@@ -6,6 +6,7 @@ const Weather = props => (
         { props.temperature && <p>Temperatur: { props.temperature }</p>}
         { props.humidity && <p>Luftfuktighet: { props.humidity }</p>}
         { props.description && <p>Beskrivelse: { props.description }</p>}
+        { props.cnt && <p>Day: { props.cnt }</p>}
         { props.error && <p> { props.error }</p>}
     </div>
 )
