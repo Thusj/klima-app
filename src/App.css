@@ -16,7 +16,7 @@ background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+
   background: grey;
 }
 .wrapper {
-  background: linear-gradient(to right, #e67e22, #e74c3c);
+  background: linear-gradient(to right, #e6fdd3, #adffcd);
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -24,6 +24,7 @@ background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+
 }
 
 .main {
+  padding-top: 20px;
   height: 90vh;
   background: rgba(0, 0, 0, 0);
   box-shadow: 0px 13px 40px -13px rgba(0,0,0,0.75);
@@ -40,6 +41,7 @@ background: linear-gradient(to right, #24243e, #302b63, #0f0c29); /* W3C, IE 10+
   align-items: center;
   justify-content: center;
   text-align: center;
+  text-shadow: 1px 1px black;
   color: rgb(255, 255, 255);
 }
 
