@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fdb133765816f63c12ab437b69740332",
+    "revision": "0fd74aba869b7166ec6c01fb36ca18ca",
     "url": "/klima-app/index.html"
   },
   {
@@ -8,15 +8,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/klima-app/static/css/2.b7f1cb4f.chunk.css"
   },
   {
-    "revision": "256e2a40af6239f15a72",
-    "url": "/klima-app/static/css/main.c930e3e4.chunk.css"
+    "revision": "884dc0d52aca73d915b2",
+    "url": "/klima-app/static/css/main.64ecd3ab.chunk.css"
   },
   {
     "revision": "12b7f32721e9ee9ba9e7",
     "url": "/klima-app/static/js/2.4593b230.chunk.js"
   },
   {
-    "revision": "256e2a40af6239f15a72",
+    "revision": "884dc0d52aca73d915b2",
     "url": "/klima-app/static/js/main.53d49816.chunk.js"
   },
   {
