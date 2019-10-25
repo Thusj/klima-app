@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/klima-app/static/css/main.cbf3272d.chunk.css",
-    "main.js": "/klima-app/static/js/main.a0535149.chunk.js",
-    "main.js.map": "/klima-app/static/js/main.a0535149.chunk.js.map",
+    "main.js": "/klima-app/static/js/main.6bca2d5a.chunk.js",
+    "main.js.map": "/klima-app/static/js/main.6bca2d5a.chunk.js.map",
     "runtime-main.js": "/klima-app/static/js/runtime-main.06f01dd5.js",
     "runtime-main.js.map": "/klima-app/static/js/runtime-main.06f01dd5.js.map",
     "static/css/2.b7f1cb4f.chunk.css": "/klima-app/static/css/2.b7f1cb4f.chunk.css",
     "static/js/2.0ffdc293.chunk.js": "/klima-app/static/js/2.0ffdc293.chunk.js",
     "static/js/2.0ffdc293.chunk.js.map": "/klima-app/static/js/2.0ffdc293.chunk.js.map",
     "index.html": "/klima-app/index.html",
-    "precache-manifest.b00088383b516cd8a42a80d8d67f21c1.js": "/klima-app/precache-manifest.b00088383b516cd8a42a80d8d67f21c1.js",
+    "precache-manifest.deec09b30738ab41be3d8de25abe3dba.js": "/klima-app/precache-manifest.deec09b30738ab41be3d8de25abe3dba.js",
     "service-worker.js": "/klima-app/service-worker.js",
     "static/css/2.b7f1cb4f.chunk.css.map": "/klima-app/static/css/2.b7f1cb4f.chunk.css.map",
     "static/css/main.cbf3272d.chunk.css.map": "/klima-app/static/css/main.cbf3272d.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.b7f1cb4f.chunk.css",
     "static/js/2.0ffdc293.chunk.js",
     "static/css/main.cbf3272d.chunk.css",
-    "static/js/main.a0535149.chunk.js"
+    "static/js/main.6bca2d5a.chunk.js"
   ]
 }
