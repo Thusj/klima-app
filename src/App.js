@@ -50,13 +50,13 @@ class App extends React.Component {
     <Layout>
         <Header className="header-color"title="React Klima API handler" scroll>
             <Navigation>
-                <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">Contact</a>
+                <a href="https://www.linkedin.com/in/espen-thorsen-frank/">LinkedIn</a>
                 <a href="https://github.com/Thusj?tab=repositories">Github</a>
             </Navigation>
         </Header>
         <Drawer title="Klima">
             <Navigation>
-                <a href="https://www.youtube.com/watch?v=oHg5SJYRHA0">Contact</a>
+                <a href="https://www.linkedin.com/in/espen-thorsen-frank/">LinkedIn</a>
                 <a href="https://github.com/Thusj?tab=repositories">Github</a>
             </Navigation>
         </Drawer>
