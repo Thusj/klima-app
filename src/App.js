@@ -2,6 +2,8 @@ import React from 'react';
 import Titles from './components/Titles';
 import Form from './components/Form';
 import Weather from './components/Weather';
+import { Layout, Header, Navigation, Drawer, Content } from 'react-mdl';
+
 /*import { tsUndefinedKeyword } from '@babel/types';*/
 
 const API_KEY = "c4284a294c0c58b3dcc66882ce5da683"
@@ -41,10 +43,32 @@ class App extends React.Component {
       });
     }
  }
-
   render() {
-    return (
+    return ( 
       <div>
+        <div className="demo-big-content">
+    <Layout>
+        <Header title="Title" scroll>
+            <Navigation>
+                <a href="#">Link</a>
+                <a href="#">Link</a>
+                <a href="#">Link</a>
+                <a href="#">Link</a>
+            </Navigation>
+        </Header>
+        <Drawer title="Title">
+            <Navigation>
+                <a href="#">Link</a>
+                <a href="#">Link</a>
+                <a href="#">Link</a>
+                <a href="#">Link</a>
+            </Navigation>
+        </Drawer>
+        <Content>
+            <div className="page-content" />
+        </Content>
+    </Layout>
+</div>
         <div className="wrapper">
           <div className="main">
             <div className="container">
@@ -52,7 +76,7 @@ class App extends React.Component {
                 <div className="col-xs-5 title-container">
                   <Titles />
                 </div>
-                <div className="col-xs-7 form-container">
+                <div className="col-xs-7 form-container">                
                   <Form getWeather={this.getWeather} />
                   <Weather 
                     temperature={this.state.temperature} 
@@ -68,6 +92,7 @@ class App extends React.Component {
           </div>
         </div>
       </div>
+      
     );
   }
 };
