@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c963080bd163eb8c143a6be86bfb220",
+    "revision": "33832cda7a83e6849b5d46e623ed1146",
     "url": "/klima-app/index.html"
   },
   {
-    "revision": "1a9192e29427a8c239a6",
-    "url": "/klima-app/static/css/2.0829bd22.chunk.css"
+    "revision": "91fbd8a3bb81d6510055",
+    "url": "/klima-app/static/css/2.b7f1cb4f.chunk.css"
   },
   {
-    "revision": "c7434faf0827f6fbd3f1",
-    "url": "/klima-app/static/css/main.a8c0119a.chunk.css"
+    "revision": "d74ff6cbecaece151d5a",
+    "url": "/klima-app/static/css/main.0b833a7c.chunk.css"
   },
   {
-    "revision": "1a9192e29427a8c239a6",
-    "url": "/klima-app/static/js/2.300ce651.chunk.js"
+    "revision": "91fbd8a3bb81d6510055",
+    "url": "/klima-app/static/js/2.8d5af5b0.chunk.js"
   },
   {
-    "revision": "c7434faf0827f6fbd3f1",
-    "url": "/klima-app/static/js/main.f93c4f7a.chunk.js"
+    "revision": "d74ff6cbecaece151d5a",
+    "url": "/klima-app/static/js/main.ed6d74ea.chunk.js"
   },
   {
     "revision": "00fa469f7c3d8a509063",
