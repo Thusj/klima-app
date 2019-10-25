@@ -1,25 +1,26 @@
 {
   "files": {
-    "main.css": "/klima-app/static/css/main.5e0f2f74.chunk.css",
-    "main.js": "/klima-app/static/js/main.7531c8dd.chunk.js",
-    "main.js.map": "/klima-app/static/js/main.7531c8dd.chunk.js.map",
+    "main.css": "/klima-app/static/css/main.b6390b97.chunk.css",
+    "main.js": "/klima-app/static/js/main.f93c4f7a.chunk.js",
+    "main.js.map": "/klima-app/static/js/main.f93c4f7a.chunk.js.map",
     "runtime-main.js": "/klima-app/static/js/runtime-main.06f01dd5.js",
     "runtime-main.js.map": "/klima-app/static/js/runtime-main.06f01dd5.js.map",
     "static/css/2.0829bd22.chunk.css": "/klima-app/static/css/2.0829bd22.chunk.css",
     "static/js/2.300ce651.chunk.js": "/klima-app/static/js/2.300ce651.chunk.js",
     "static/js/2.300ce651.chunk.js.map": "/klima-app/static/js/2.300ce651.chunk.js.map",
     "index.html": "/klima-app/index.html",
-    "precache-manifest.76cebb2f52a4f070cb1ba508991c5e51.js": "/klima-app/precache-manifest.76cebb2f52a4f070cb1ba508991c5e51.js",
+    "precache-manifest.9e1a9c33d6de689c99e8a75a9c4a4260.js": "/klima-app/precache-manifest.9e1a9c33d6de689c99e8a75a9c4a4260.js",
     "service-worker.js": "/klima-app/service-worker.js",
     "static/css/2.0829bd22.chunk.css.map": "/klima-app/static/css/2.0829bd22.chunk.css.map",
-    "static/css/main.5e0f2f74.chunk.css.map": "/klima-app/static/css/main.5e0f2f74.chunk.css.map",
-    "static/media/bootstrap.min.css": "/klima-app/static/media/glyphicons-halflings-regular.fa277232.woff"
+    "static/css/main.b6390b97.chunk.css.map": "/klima-app/static/css/main.b6390b97.chunk.css.map",
+    "static/media/bootstrap.min.css": "/klima-app/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/App.css": "/klima-app/static/media/lynbilde2.485a4520.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.06f01dd5.js",
     "static/css/2.0829bd22.chunk.css",
     "static/js/2.300ce651.chunk.js",
-    "static/css/main.5e0f2f74.chunk.css",
-    "static/js/main.7531c8dd.chunk.js"
+    "static/css/main.b6390b97.chunk.css",
+    "static/js/main.f93c4f7a.chunk.js"
   ]
 }

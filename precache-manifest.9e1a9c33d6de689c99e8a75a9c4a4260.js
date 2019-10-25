@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a696230171aab7f70fbfc65b417ed5ae",
+    "revision": "d09fea9e0a53802f8dfc7fbba7ef85a4",
     "url": "/klima-app/index.html"
   },
   {
@@ -8,16 +8,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/klima-app/static/css/2.0829bd22.chunk.css"
   },
   {
-    "revision": "0bc6f9b8192b155ce614",
-    "url": "/klima-app/static/css/main.5e0f2f74.chunk.css"
+    "revision": "bbd1e3654d1ae814b2f6",
+    "url": "/klima-app/static/css/main.b6390b97.chunk.css"
   },
   {
     "revision": "1a9192e29427a8c239a6",
     "url": "/klima-app/static/js/2.300ce651.chunk.js"
   },
   {
-    "revision": "0bc6f9b8192b155ce614",
-    "url": "/klima-app/static/js/main.7531c8dd.chunk.js"
+    "revision": "bbd1e3654d1ae814b2f6",
+    "url": "/klima-app/static/js/main.f93c4f7a.chunk.js"
   },
   {
     "revision": "00fa469f7c3d8a509063",
@@ -42,5 +42,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fa2772327f55d8198301fdb8bcfc8158",
     "url": "/klima-app/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  {
+    "revision": "485a4520e12aa5cdb60a1aabd47456fa",
+    "url": "/klima-app/static/media/lynbilde2.485a4520.jpg"
   }
 ]);
