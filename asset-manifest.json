@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/klima-app/static/css/main.64ecd3ab.chunk.css",
-    "main.js": "/klima-app/static/js/main.3a550d20.chunk.js",
-    "main.js.map": "/klima-app/static/js/main.3a550d20.chunk.js.map",
+    "main.css": "/klima-app/static/css/main.cbf3272d.chunk.css",
+    "main.js": "/klima-app/static/js/main.a0535149.chunk.js",
+    "main.js.map": "/klima-app/static/js/main.a0535149.chunk.js.map",
     "runtime-main.js": "/klima-app/static/js/runtime-main.06f01dd5.js",
     "runtime-main.js.map": "/klima-app/static/js/runtime-main.06f01dd5.js.map",
     "static/css/2.b7f1cb4f.chunk.css": "/klima-app/static/css/2.b7f1cb4f.chunk.css",
-    "static/js/2.4593b230.chunk.js": "/klima-app/static/js/2.4593b230.chunk.js",
-    "static/js/2.4593b230.chunk.js.map": "/klima-app/static/js/2.4593b230.chunk.js.map",
+    "static/js/2.0ffdc293.chunk.js": "/klima-app/static/js/2.0ffdc293.chunk.js",
+    "static/js/2.0ffdc293.chunk.js.map": "/klima-app/static/js/2.0ffdc293.chunk.js.map",
     "index.html": "/klima-app/index.html",
-    "precache-manifest.56d3e1d89d2f48bbbe3a950edcfaf008.js": "/klima-app/precache-manifest.56d3e1d89d2f48bbbe3a950edcfaf008.js",
+    "precache-manifest.b00088383b516cd8a42a80d8d67f21c1.js": "/klima-app/precache-manifest.b00088383b516cd8a42a80d8d67f21c1.js",
     "service-worker.js": "/klima-app/service-worker.js",
     "static/css/2.b7f1cb4f.chunk.css.map": "/klima-app/static/css/2.b7f1cb4f.chunk.css.map",
-    "static/css/main.64ecd3ab.chunk.css.map": "/klima-app/static/css/main.64ecd3ab.chunk.css.map",
+    "static/css/main.cbf3272d.chunk.css.map": "/klima-app/static/css/main.cbf3272d.chunk.css.map",
     "static/media/bootstrap.min.css": "/klima-app/static/media/glyphicons-halflings-regular.fa277232.woff",
     "static/media/App.css": "/klima-app/static/media/lynbilde2.485a4520.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.06f01dd5.js",
     "static/css/2.b7f1cb4f.chunk.css",
-    "static/js/2.4593b230.chunk.js",
-    "static/css/main.64ecd3ab.chunk.css",
-    "static/js/main.3a550d20.chunk.js"
+    "static/js/2.0ffdc293.chunk.js",
+    "static/css/main.cbf3272d.chunk.css",
+    "static/js/main.a0535149.chunk.js"
   ]
 }
